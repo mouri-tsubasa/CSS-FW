@@ -1,0 +1,13 @@
+/* *****************************
+ *
+ * Import file to Scss or Sass.
+ *
+ **************************** */
+@import "compass";
+ 
+@import "function.scss";
+
+
+.margin{
+	margin: $spaceXSmall
+}

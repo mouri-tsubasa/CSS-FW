@@ -1,0 +1,39 @@
+@charset "utf-8";
+// SCSS Document
+// 変数設定
+
+
+////// ベンダープレフィックスを自動で付与する
+$set-prefix: '' , -moz- , -webkit- , -o- , -ms-;
+
+////// カラー
+$colorDefalt: #333;
+$colorSub: #555;
+$colorBase: #fff;
+$colorDark: #030000;
+$colorAccent: #e44e5e;
+$colorAccentIcon: #e9828e;
+$colorAccentLight: #f6e6e7;
+$colorAccentClear: #fff6f7;
+$colorMint: #84c3bb;
+$colorMonoLight: #afb4b9;
+$colorMonoClear: #f6f6f6;
+$colorMenu: rgba(228, 73, 90, .97);
+$colorFooter: #272727;
+$colorTransBase: rgba(255,255,255,.85);
+$colorTransDark: rgba(0,0,0,.75);
+
+////// スペース
+$spaceXSmall: 5px;
+$spaceSmall: 10px;
+$spaceMedium: 20px;
+$spaceLarge: 40px;
+$spaceXLarge: 60px;
+
+////// フォントサイズ
+$fontXLarge: 36px;
+$fontLarge: 24px;
+$fontMedium: 18px;
+$fontBase: 16px;
+$fontSmall: 14px;
+$fontNotice: 12px;
